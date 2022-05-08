@@ -317,15 +317,3 @@ train_set <- rbind(train_set, removed)
 rm(test_index, temp, removed)
 ```
 
-© 2021 GitHub, Inc.
-Terms
-Privacy
-Security
-Status
-Docs
-Contact GitHub
-Pricing
-API
-Training
-Blog
-About
